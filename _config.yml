@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://suraus.github.io
+title: suraus
+paginate: 10
